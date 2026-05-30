@@ -1,0 +1,7 @@
+BookingID,BookingDate,TableNumber,CustomerName,EmployeeName
+1,2022-10-10,5,Anna Iversen,John Miller
+2,2022-11-12,3,Joakim Iversen,John Miller
+3,2022-10-11,2,Vanessa McCarthy,Fatma Kaya
+4,2022-10-13,2,Marcos Romero,Maria Garcia
+5,2022-10-14,4,Hiroki Yamane,George Wilson
+6,2022-10-15,1,Diana Pinto,Ali Hassan
